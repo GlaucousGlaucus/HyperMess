@@ -3,5 +3,7 @@
   "block.hm.mysterious_ore_end": "Mysterious ore",
   "block.hm.mysterious_ore_nether": "Mysterious ore",
   "block.hm.mysterious_ore_overworld": "Mysterious ore",
+  "item.hm.mysterious_ingot": "Mysterious Ingot",
+  "item.hm.raw_mysterious_chunk": "Mysterious Raw Chunk",
   "itemGroup.hypermess": "HyperMess"
 }

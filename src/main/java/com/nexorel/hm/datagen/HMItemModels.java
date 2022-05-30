@@ -25,11 +25,11 @@ public class HMItemModels extends ItemModelProvider {
 //
 //        withExistingParent(Registration.THIEF_EGG.get().getRegistryName().getPath(), mcLoc("item/template_spawn_egg"));
 //
-//        singleTexture(Registration.RAW_MYSTERIOUS_CHUNK.get().getRegistryName().getPath(),
-//                mcLoc("item/generated"),
-//                "layer0", modLoc("item/raw_mysterious_chunk"));
-//        singleTexture(Registration.MYSTERIOUS_INGOT.get().getRegistryName().getPath(),
-//                mcLoc("item/generated"),
-//                "layer0", modLoc("item/mysterious_ingot"));
+        singleTexture(Registration.RAW_MYSTERIOUS_CHUNK.get().getRegistryName().getPath(),
+                mcLoc("item/generated"),
+                "layer0", modLoc("item/raw_mysterious_chunk"));
+        singleTexture(Registration.MYSTERIOUS_INGOT.get().getRegistryName().getPath(),
+                mcLoc("item/generated"),
+                "layer0", modLoc("item/mysterious_ingot"));
     }
 }

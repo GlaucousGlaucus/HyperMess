@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "hm:mysterious_ore"
+  },
+  "result": "hm:mysterious_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}
