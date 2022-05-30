@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hm:mysterious_ore_overworld",
+    "hm:mysterious_ore_nether",
+    "hm:mysterious_ore_end",
+    "hm:mysterious_ore_deepslate"
+  ]
+}
